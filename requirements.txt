@@ -1,5 +1,7 @@
 streamlit
 pandas
+streamlit-folium
+folium
 matplotlib
 openpyxl
 scikit-learn
