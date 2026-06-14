@@ -4,3 +4,8 @@ matplotlib
 openpyxl
 scikit-learn
 plotly
+requests
+beautifulsoup4
+lxml
+selenium
+chromedriver-autoinstaller
